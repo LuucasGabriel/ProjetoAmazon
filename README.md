@@ -17,8 +17,7 @@ Este repositório contém um **Dashboard interativo em Power BI**, desenvolvido 
 
 Abaixo, um exemplo do dashboard desenvolvido:
 
-![Dashboard Amazon](./img/dashboard-amazon.png)
-
+![Dashboard Amazon](https://github.com/LuucasGabriel/ProjetoAmazon/blob/main/Imagens/Captura%20de%20tela%202025-07-10%20191211.png?raw=true)
 > 💡 **Dica:** Suba um print do seu `.pbix` na pasta `img` e atualize o caminho acima.
 
 ---
